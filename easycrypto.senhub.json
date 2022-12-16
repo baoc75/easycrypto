@@ -1,0 +1,18 @@
+{
+    "url": "https://baoc75.github.io/easycrypto/index.js",
+    "appId": "easycrypto",
+    "name": "EasyCrypto",
+    "author": {
+      "name": "EasyCrypto Team",
+      "email": "chibao123hcm@gmail.com"
+    },
+    "tags": [
+      "solana",
+      "dapps",
+      "defi",
+      "gamefi",
+      "lending"
+    ],
+    "description": "EasyCrypto is a P2P Pawm Marketplace for Crypto Assets. Create loan offer with your own terms or borrow with no surprise liquidation. Secured by smart contract and run on Solana blockchain.",
+    "verified": false
+  }
